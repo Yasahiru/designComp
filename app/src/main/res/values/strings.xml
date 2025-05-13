@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">compDesign</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Array for First Pregnancy Options -->
+    <string-array name="first_pregnancy_options">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Maybe</item>
+    </string-array>
+
+    <!-- Array for Baby Gender Options -->
+    <string-array name="baby_gender_options">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Unknown</item>
+    </string-array>
+
+</resources>
